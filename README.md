@@ -2,4 +2,4 @@
 ## Описание
 Данный веб-сервис предназначен для онлайн-продажи спортивной обуви
 ## Скриншоты
-[Isolated.png](sport.png)
+![Watch the gif](https://github.com/MaksimPodtynnikov/imgs/blob/main/sport.png)
